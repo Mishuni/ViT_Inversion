@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+opencv-python
+tqdm
+lpips
+IQA-pytorch
+vit_pytorch
+torch-summary
+einops
+torch
+torchvision
