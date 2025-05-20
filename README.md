@@ -5,7 +5,7 @@
 $ pip install -r requirements.txt
 ```
 ### Load the pretrained moco models for GradVit (gv)
-* download .tar files on link https://huggingface.co/sotaBrewer824/x4ssl/commit/dd22d2b3d14aaa97a5703bc54db5f34c1044e2af
+* download `moco_v2_200ep_pretrain.pth.tar` file on the link [(https://huggingface.co/sotaBrewer824/x4ssl/tree/main)]
 and move it on the demodata folder.
 ## Run Inversion Attacks on the ViT models.
 ```shell
